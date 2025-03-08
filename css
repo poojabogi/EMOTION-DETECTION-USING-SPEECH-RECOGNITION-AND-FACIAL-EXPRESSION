@@ -1,0 +1,7 @@
+[ User Interface (UI) ] 
+        ↓
+[ Dataset Preprocessing ] 
+        ↓
+[ CNN Training Module ] → [ Accuracy Comparison ]
+        ↓
+[ Prediction Module ] → [ User Interface (UI) ]
